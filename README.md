@@ -9,10 +9,10 @@
 2. Tweet annotations file contains the text of the tweets, the annotations scores in the binary classification task where 1=containing a prejudice
 against women, and 0=not. The first column is a classification into the following categories that were used only to better describe the dataset on the paper:
 
-- 1= Some of the demands of the feminist movement seem to me to be a bit exaggerated.
-- 2= sometimes feel that our society pays too much attention to the rights of certain minorities.
-- 3= In the name of equality, many women try to gain certain privileges.
-- 4= Many women interpret innocent comments and actions as sexist.
-- 5= Women are easily offended.
-- 6= Women exaggerate the problems they suffer because they are women.
-- 99= missing value
+    - 1= Some of the demands of the feminist movement seem to me to be a bit exaggerated.
+    - 2= sometimes feel that our society pays too much attention to the rights of certain minorities.
+    - 3= In the name of equality, many women try to gain certain privileges.
+    - 4= Many women interpret innocent comments and actions as sexist.
+    - 5= Women are easily offended.
+    - 6= Women exaggerate the problems they suffer because they are women.
+    - 99= missing value
