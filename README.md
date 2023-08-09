@@ -3,8 +3,8 @@
 ## Data used in Chulvi, Fontanella, Labadie and Rosso, (2023) "Social or individual disagreement? Perspectivism in the annotation of sexist jokes" presented in the workshop "NLPerspectives" in  ECAI2023
 
 1. The Questionnaire data file contains a measure of the attitudes, ideology, and gender of the annotators.
-  - Attitudes are measured on a 1 to 7 Likert scale where 1 has de label of "I don't agree at all" and 7 has de label of "I strongly agree"
-  - Ideology is measured on a 1 to 7 scale where 1 has de label of "Left" and 7 has de label of "Right"
+    - Attitudes are measured on a 1 to 7 Likert scale where 1 has de label of "I don't agree at all" and 7 has de label of "I strongly agree"
+    - Ideology is measured on a 1 to 7 scale where 1 has de label of "Left" and 7 has de label of "Right"
      
 2. Tweet annotations file contains the text of the tweets, the annotations scores in the binary classification task where 1=containing a prejudice
 against women, and 0=not. The first column is a classification into the following categories that were used only to better describe the dataset on the paper:
