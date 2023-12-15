@@ -15,6 +15,5 @@ against women, and 0=not. The first column is a classification into the followin
     - 2= Sometimes feel that our society pays too much attention to the rights of certain minorities.
     - 3= In the name of equality, many women try to gain certain privileges.
     - 4= Many women interpret innocent comments and actions as sexist.
-    - 5= Women are easily offended.
-    - 6= Women exaggerate the problems they suffer because they are women.
+    - 5= Women are easily offended and exaggerate the problems they suffer because they are women.
     - 99= missing value
